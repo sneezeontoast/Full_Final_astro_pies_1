@@ -1,0 +1,1 @@
+[0.003, 11.3285, 6.1851, nan, nan, nan, nan, nan, nan, nan, nan, nan, 1.5846, 6.7713, 7.4725, 0.002, nan, nan, nan, nan, 4.2681, 7.7879, 0.0023, nan, nan, nan, nan, nan, nan, nan, nan, nan, 0.0025, 8.5184, 7.1405, 0.0022, nan, nan, nan, nan, 1.8123, 0.2609, 0.0029, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]
